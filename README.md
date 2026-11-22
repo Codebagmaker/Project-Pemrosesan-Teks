@@ -1,5 +1,4 @@
 # Project-Pemrosesan-Teks
-# Project-Pemrosesan-Teks
 
 Klasifikasi Multi-Kelas Emosi Publik pada Komentar Liputan Video Demonstrasi 10 November Yogyakarta menggunakan perbandingan ekstraksi fitur TF-IDF dan FastText dengan algoritma Naive Bayes, XGBoost, dan Bi-LSTM.
 

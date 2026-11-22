@@ -1,0 +1,10 @@
+google-api-python-client
+pandas
+numpy
+scikit-learn
+xgboost
+gensim
+tensorflow
+matplotlib
+emoji>=2.0
+PySastrawi
